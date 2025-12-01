@@ -26,5 +26,3 @@ CCAKE 2.0 simultaneously evolves energy–momentum and multiple conserved charge
 
 ---
 
-
-We welcome contri
